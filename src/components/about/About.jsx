@@ -5,7 +5,7 @@ import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
 
-const About = () =>{
+const About = (props) =>{
     return (
         <section id='about'>
             <h5>Get To Know</h5>
@@ -39,7 +39,7 @@ const About = () =>{
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, repellat error minima sit accusamus laboriosam quaerat voluptatem quis reprehenderit fugiat ex dolorem eligendi delectus ratione hic iure necessitatibus recusandae at.
                     </p>
                     <div className="about__content-button">
-                        <a href='#contact' className='btn btn-primary'>Let's Talk!</a>
+                        <a href='#contact' onClick={() => props.setActiveNav('#contact')} className='btn btn-primary'>Let's Talk!</a>
                     </div>
                 </div>
             </div>
