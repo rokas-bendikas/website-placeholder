@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/website-placeholder/static/css/main.38f5ee6d.css",
-    "main.js": "/website-placeholder/static/js/main.636c4c2a.js",
+    "main.css": "/website-placeholder/static/css/main.d5bae32a.css",
+    "main.js": "/website-placeholder/static/js/main.1e11f07d.js",
     "static/media/cv.pdf": "/website-placeholder/static/media/cv.1676dcdc83730930d888.pdf",
     "static/media/me.png": "/website-placeholder/static/media/me.821ecddcb9953b46bf75.png",
     "static/media/me-about.jpg": "/website-placeholder/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/portfolio5.png": "/website-placeholder/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/website-placeholder/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/website-placeholder/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/website-placeholder/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/website-placeholder/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/website-placeholder/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/website-placeholder/index.html",
-    "main.38f5ee6d.css.map": "/website-placeholder/static/css/main.38f5ee6d.css.map",
-    "main.636c4c2a.js.map": "/website-placeholder/static/js/main.636c4c2a.js.map"
+    "main.d5bae32a.css.map": "/website-placeholder/static/css/main.d5bae32a.css.map",
+    "main.1e11f07d.js.map": "/website-placeholder/static/js/main.1e11f07d.js.map"
   },
   "entrypoints": [
-    "static/css/main.38f5ee6d.css",
-    "static/js/main.636c4c2a.js"
+    "static/css/main.d5bae32a.css",
+    "static/js/main.1e11f07d.js"
   ]
 }
